@@ -1,0 +1,17 @@
+{
+    "knight": {
+        "quirk": "High vitality & strength"
+    },
+    "paladin": {
+        "quirk": "High agility & strength"
+    },
+    "mage": {
+        "quirk": "High inteligence & mind"
+    },
+    "ranger": {
+        "quirk": "High mind & dexterity"
+    },
+    "summoner": {
+        "quirk": "High inteligence & agility"
+    }
+}

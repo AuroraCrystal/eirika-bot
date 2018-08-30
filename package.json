@@ -1,0 +1,46 @@
+{
+  "name": "eirika_ver1",
+  "version": "1.0.0",
+  "description": "Eirika Discord Bot for SC",
+  "main": "index.js",
+  "engines": {
+    "node": "8.x",
+    "npm": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AuroraCrystal/eirika-bot.git"
+  },
+  "keywords": [
+    "eirika",
+    "sc",
+    "discord",
+    "bot"
+  ],
+  "author": "aurora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AuroraCrystal/eirika-bot/issues"
+  },
+  "homepage": "https://github.com/AuroraCrystal/eirika-bot#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "discord-youtube-api": "^0.1.0",
+    "enmap": "^2.6.3",
+    "enmap-level": "^2.1.0",
+    "enmap-rethink": "^2.1.1",
+    "fs": "0.0.1-security",
+    "request": "^2.87.0"
+  },
+  "devDependencies": {
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.8.0",
+    "eslint-plugin-standard": "^3.1.0"
+  }
+}
